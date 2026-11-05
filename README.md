@@ -1,4 +1,4 @@
-<img src="public/icon-192.png" alt="Mailflare" width="96" />
+<img src="public/icon-192.png" alt="mailflare63" width="96" />
 
 
 # Mailflare
@@ -7,7 +7,7 @@ A self-hosted alternative to Google Workspace. Setup **custom domain Emails**, *
 
 Run it on Cloudflare or Docker. Send and receive with Cloudflare, Resend or Amazon SES. Store files in R2, Backblaze B2 or AWS S3. Use D1, Postgres, MySQL or Turso for the database.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hieunc229/mailflare)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Niloy441/mailflare63)
 
 ## Screenshots
 
@@ -26,9 +26,9 @@ Run it on Cloudflare or Docker. Send and receive with Cloudflare, Resend or Amaz
 
 ### Sponsors
 
-<a target="_blank" href="https://sequenzy.com/?ref=hieunc229/mailflare"><img height="80" src="sponsors/sequenzy.png" alt="Sequenzy"></a>
+<a target="_blank" href="https://sequenzy.com/?ref=Niloy441/mailflare63"><img height="80" src="sponsors/sequenzy.png" alt="Sequenzy"></a>
 &nbsp;
-<a target="_blank" href="https://drivemug.com/?ref=hieunc229/mailflare"><img height="80" src="sponsors/drivemug.png" alt="Drivemug"></a>
+<a target="_blank" href="https://drivemug.com/?ref=Niloy441/mailflare63"><img height="80" src="sponsors/drivemug.png" alt="Drivemug"></a>
 
 Want to support Mailflare? [Become a sponsor](https://store.paymug.co/buy/mailflare-sponsor).
 
