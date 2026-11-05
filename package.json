@@ -1,5 +1,5 @@
 {
-  "name": "mailflare",
+  "name": "mailflare63",
   "version": "0.5.4",
   "private": true,
   "scripts": {
@@ -81,7 +81,6 @@
     "@vinext/cloudflare": "1.0.0-beta.11",
     "ai": "^7.0.113",
     "bcryptjs": "^3.0.3",
-    "better-sqlite3": "^13.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "css-tree": "^3.2.1",
@@ -154,6 +153,7 @@
   },
   "type": "module",
   "optionalDependencies": {
-    "@electric-sql/pglite": "^0.5.11"
+    "@electric-sql/pglite": "^0.5.11",
+    "better-sqlite3": "^13.0.3"
   }
 }
