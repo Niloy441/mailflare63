@@ -69,5 +69,5 @@ export function getEmailWorkerName(env?: Partial<CloudflareEnv>): string {
 	if (typeof process !== "undefined" && process.env?.CF_EMAIL_WORKER_NAME?.trim()) {
 		return process.env.CF_EMAIL_WORKER_NAME.trim();
 	}
-	return "mailflare";
+	return "mailflare63";
 }
